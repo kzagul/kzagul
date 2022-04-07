@@ -19,7 +19,7 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
 
 <p align="center">
   <a href="https://career.habr.com/zagulkirill/">Habr Career</a> - 
-  <a href="https://career.habr.com/zagulkirill/">My personal WebSite</a>
+  <a href="https://zagulkirill.herokuapp.com/">My personal WebSite</a>
 </p>
 
 Skills:
