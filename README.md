@@ -19,11 +19,8 @@ I'm, a web developer living in Russia, Tyumen, specialized in **JavaScript** **V
 
 <p align="center">
   <a href="https://career.habr.com/zagulkirill/">Habr Career</a> - 
-</p>
-<p align="center">
   <a href="https://career.habr.com/zagulkirill/">My personal WebSite</a>
 </p>
-
 
 Skills:
 - Python, C#, 
@@ -38,5 +35,5 @@ Skills:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kzagul&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
 
 
-### Find me around the web 🌎 :
-- Social Networking [VK](https://vk.com/killrealthecool)
+### Find me in social networks 🌎 :
+- [VK](https://vk.com/killrealthecool)
