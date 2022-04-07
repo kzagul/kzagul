@@ -27,7 +27,7 @@ Skills:
 - HTML, CSS, JavaScript, Node.js
 - Vue (javascript Frameworks)
 - Bootstrap and vuetify (UI libraries)
-- PostgreSQL
+- PostgreSQL, MS SQL
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzagul&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
