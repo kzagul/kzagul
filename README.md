@@ -25,7 +25,7 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
 Skills:
 - Python, C#
 - HTML, CSS, JavaScript, Node.js
-- Vue (javascript Frameworks)
+- Vue (javascript Framework)
 - Bootstrap and vuetify (UI libraries)
 - PostgreSQL, MS SQL
 
