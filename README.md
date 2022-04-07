@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello! 👋, I'm Kirill Zagul
 
 <!--
 **kzagul/kzagul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm, a web developer living in Russia, Tyumen, specialized in **JavaScript** **Vue.js**
+
 <p align="center">
-  <a href="https://career.habr.com/zagulkirill/">Habr Career</a> -
+  <a href="https://career.habr.com/zagulkirill/">Habr Career</a> - 
 </p>
+<p align="center">
+  <a href="https://career.habr.com/zagulkirill/">My personal WebSite</a>
+</p>
+
 
 Skills:
 - Python, C#, 
