@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm, a web developer living in Russia, Tyumen, specialized in **JavaScript** **Vue.js**
+I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.js**
 
 <p align="center">
   <a href="https://career.habr.com/zagulkirill/">Habr Career</a> - 
