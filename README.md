@@ -22,6 +22,7 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
   <a href="https://zagulkirill.herokuapp.com/">My personal WebSite</a>
 </p>
 My top of projects:  **APPPPP, frontend, server, TravelBlog, kzagul.github.io ** 
+
 Skills:
 - Python, C#
 - HTML, CSS, JavaScript, Node.js
