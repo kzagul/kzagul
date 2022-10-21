@@ -23,11 +23,12 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
 </p>
 
 Skills:
-- Python, C#
-- HTML, CSS, JavaScript, Node.js
-- Vue (javascript Framework)
-- Bootstrap and vuetify (UI libraries)
-- PostgreSQL, MS SQL
+- Vue, Nuxt
+- JavaScript, Typescript, Php, C#, Python
+- Node.js, Nest.js, Laravel
+- PostgreSQL, MySQL
+- HTML, CSS, Sass, Scss
+- Bootstrap, Vuetify, Tailwind, Ant Design (UI libraries)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzagul&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
