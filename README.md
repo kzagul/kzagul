@@ -30,8 +30,8 @@ Skills:
 - Vue 3, Nuxt 3
 - JavaScript, Typescript
 - Node.js, Nest.js
-- Php, Laravel
-- PostgreSQL, MySQL
+<!-- - Php, Laravel
+- PostgreSQL, MySQL -->
 - HTML, CSS, Sass, Scss
 - Bootstrap, Vuetify, Tailwind, Ant Design (UI libraries) + Figma
 - And also: C#, Python
