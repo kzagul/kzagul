@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.js**.
+I'm, a web developer living in Moscow / Tyumen, specialized in **JavaScript**, **React** and **Node.js**.
 
 <p align="center">
   My - <a href="https://career.habr.com/zagulkirill/">Habr Career</a>
@@ -27,7 +27,7 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
 - 👯 I’m looking to collaborate on React, Vue and Node.js projects
 
 Skills:
-- Vue 3, Nuxt 3
+- React, Vue 3, Nuxt 3
 - JavaScript, Typescript
 - Node.js, Nest.js
 - Php, Laravel
