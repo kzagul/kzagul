@@ -23,17 +23,17 @@ I'm, a web developer living in Tyumen, specialized in **JavaScript** and **Vue.j
 </p>
 
 - 🔭 I’m currently working on "sportuslugi" - sports services platform
-- 🌱 I’m currently learning Microservices architecture
-- 👯 I’m looking to collaborate on Nuxt3 and node.js projects
+- 🌱 I’m learning Microservices and microfrontend architecture
+- 👯 I’m looking to collaborate on React, Vue and Node.js projects
 
 Skills:
 - Vue 3, Nuxt 3
 - JavaScript, Typescript
 - Node.js, Nest.js
 - Php, Laravel
-- PostgreSQL, MySQL 
-- HTML, CSS, Sass, Scss
-- Bootstrap, Vuetify, Tailwind, Ant Design (UI libraries) + Figma
+- PostgreSQL, MySQL, MongoDB
+- HTML, CSS, Sass, Scss, Less
+- Ant Design, Material design, Tailwind (UI libraries) + Figma & Storybook
 - And also: C#, Python
 
 <!-- <p align="center">
