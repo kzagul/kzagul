@@ -27,7 +27,7 @@ I'm, a web developer living in Moscow / Tyumen, specialized in **JavaScript**, *
 - 👯 I’m looking to collaborate on React, Vue and Node.js projects
 
 Skills:
-- React, Vue 3, Nuxt 3
+- React, Next, Vue 3, Nuxt 3
 - JavaScript, Typescript
 - Node.js, Nest.js
 - Php, Laravel
